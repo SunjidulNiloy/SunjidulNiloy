@@ -28,4 +28,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gizmolala&" alt="gizmolala" /></p>
 
-
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/Gizmolala/Gizmolala/blob/output/github-contribution-grid-snake.svg)
