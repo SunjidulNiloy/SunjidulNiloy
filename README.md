@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Thrifty NFT MarketPlace**
 
-- 🌱 I’m currently learning **Typescript, Tailwind CSS**
+- 🌱 I’m currently learning **Typescript, Tailwind CSS, Solidity**
 
 - 👯 I’m looking to collaborate on **Web-3 related project**
 
