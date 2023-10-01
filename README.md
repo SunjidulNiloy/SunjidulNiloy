@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typescript, Tailwind CSS, Solidity, SASS**
 
-- 👯 I’m looking to collaborate on **Web-3 related project**
+- 👯 I’m looking to collaborate on **Web-3/Marketplace related project**
 
 - 🤝 I’m looking for help with **Frontend design**
 
