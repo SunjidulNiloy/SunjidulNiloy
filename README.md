@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi there👋, This is Xenitsu</h1>
 <h3 align="center">A passionate full stack developer</h3>
-<iframe src="https://giphy.com/embed/JqmupuTVZYaQX5s094" width="480" height="344" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Smolverse-smol-smolverse-swol-JqmupuTVZYaQX5s094">via GIPHY</a></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SunjidulNiloy&label=Profile%20views&color=0e75b6&style=flat" alt="SunjidulNiloy" /> </p>
 
