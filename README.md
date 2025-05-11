@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on  **ML**
 
-- 🌱 I’m currently learning **SOlidity, ML**
+- 🌱 I’m currently learning **Solidity, ML**
 
 - 👯 I’m looking to collaborate on  **AI, ML related project**
 
