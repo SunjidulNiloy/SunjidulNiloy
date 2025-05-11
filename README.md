@@ -5,13 +5,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SunjidulNiloy&label=Profile%20views&color=0e75b6&style=flat" alt="SunjidulNiloy" /> </p>
 
-- 🔭 I’m currently working on  **Thrifty NFT Social**
+- 🔭 I’m currently working on  **ML**
 
-- 🌱 I’m currently learning **Typescript, Tailwind CSS, Solidity, Bootstrap**
+- 🌱 I’m currently learning **SOlidity, ML**
 
-- 👯 I’m looking to collaborate on  **Web-3/Marketplace related project**
+- 👯 I’m looking to collaborate on  **AI, ML related project**
 
-- 🤝 I’m looking for help with **Frontend design**
+- 🤝 I’m looking for help with **Machine Learning**
 
 - 💬 Ask me about **Web-3 related questions or any tech questions**
 
