@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Web-3 related questions or any tech questions**
 
-- 📫 How to reach me **https://t.me/Xenitsu**
+- 📫 How to reach me **sunjidulniloy67@gmail.com**
 
 
 
