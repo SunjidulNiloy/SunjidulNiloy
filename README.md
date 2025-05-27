@@ -5,11 +5,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SunjidulNiloy&label=Profile%20views&color=0e75b6&style=flat" alt="SunjidulNiloy" /> </p>
 
-- 🔭 I’m currently working on  **ML**
+- 🔭 I’m currently working on  **Machine learning**
 
-- 🌱 I’m currently learning **Solidity, ML**
+- 🌱 I’m currently learning **Solidity, Machine learning**
 
-- 👯 I’m looking to collaborate on  **AI, ML related project**
+- 👯 I’m looking to collaborate on  **AI, Machine learning related project**
 
 - 🤝 I’m looking for help with **Machine Learning**
 
